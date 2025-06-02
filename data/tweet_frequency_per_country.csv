@@ -1,180 +1,180 @@
-,country,count
-0,United States of America,10998
-1,Thailand,10937
-2,United Kingdom,3325
-3,Canada,1890
-4,India,1451
-5,Japan,940
-6,Turkey,496
-7,Nigeria,464
-8,Germany,437
-9,Pakistan,434
-10,Burkina Faso,385
-11,Ireland,376
-12,Israel,341
-13,Gabon,326
-14,Ghana,258
-15,Morocco,242
-16,France,239
-17,New Caledonia,226
-18,South Africa,214
-19,Australia,206
-20,Vatican City,192
-21,Mali,190
-22,Colombia,180
-23,Philippines,180
-24,Netherlands,168
-25,Laos,165
-26,Cuba,163
-27,Azerbaijan,156
-28,Andorra,153
-29,Tunisia,151
-30,Italy,149
-31,Moldova,147
-32,Malaysia,130
-33,Kenya,129
-34,Mongolia,127
-35,Spain,111
-36,Belgium,94
-37,Macau,88
-38,Sao Tome and Principe,80
-39,Austria,79
-40,United Arab Emirates,77
-41,Tonga,75
-42,Switzerland,74
-43,Bangladesh,70
-44,Norway,69
-45,Albania,69
-46,Argentina,63
-47,Indonesia,62
-48,Seychelles,59
-49,New Zealand,58
-50,Tanzania,54
-51,Cayman Islands,46
-52,Finland,45
-53,Denmark,43
-54,Jersey,42
-55,Brazil,41
-56,Montenegro,38
-57,Portugal,37
-58,Egypt,32
-59,Saudi Arabia,31
-60,Iceland,29
-61,Uganda,26
-62,China,25
-63,Russia,23
-64,Montserrat,23
-65,Niger,22
-66,Malta,21
-67,Armenia,21
-68,Belarus,21
-69,Iran,19
-70,Qatar,19
-71,Myanmar,19
-72,Sri Lanka,18
-73,Sweden,16
-74,Poland,16
-75,Lebanon,16
-76,Jamaica,16
-77,Mexico,14
-78,Chile,14
-79,Hong Kong,14
-80,Sudan,14
-81,Cameroon,12
-82,Ethiopia,11
-83,Slovakia,11
-84,Sierra Leone,11
-85,Afghanistan,10
-86,Oman,10
-87,Zambia,10
-88,Czechia,10
-89,Slovenia,10
-90,South Korea,10
-91,Dominican Republic,9
-92,Cyprus,9
-93,Equatorial Guinea,9
-94,Zimbabwe,9
-95,Papua New Guinea,9
-96,Maldives,9
-97,Venezuela,9
-98,Syria,8
-99,Isle Of Man,8
-100,Ukraine,8
-101,Iraq,8
-102,Nepal,8
-103,Burundi,7
-104,Bermuda,7
-105,Luxembourg,7
-106,Croatia,6
-107,Singapore,6
-108,Greece,6
-109,Guatemala,6
-110,Botswana,6
-111,Namibia,6
-112,Kuwait,6
-113,Yemen,6
-114,Romania,5
-115,Ecuador,5
-116,Rwanda,5
-117,Hungary,5
-118,Guam,5
-119,Senegal,5
-120,Haiti,5
-121,Jordan,5
-122,Latvia,5
-123,Peru,5
-124,Fiji,4
-125,Central African Republic,4
-126,Côte d'Ivoire,4
-127,Panama,4
-128,Costa Rica,4
-129,Benin,4
-130,Bolivia,4
-131,Taiwan,4
-132,Barbados,4
-133,South Sudan,4
-134,Turkmenistan,4
-135,Cabo Verde,3
-136,Honduras,3
-137,Puerto Rico,3
-138,Uruguay,3
-139,The Bahamas,3
-140,Somalia,3
-141,Georgia,3
-142,Bosnia and Herzegovina,3
-143,Estonia,3
-144,Congo (Kinshasa),3
-145,Falkland Islands (Islas Malvinas),3
-146,Liberia,2
-147,Guadeloupe,2
-148,Malawi,2
-149,Nicaragua,2
-150,Bulgaria,2
-151,Tuvalu,2
-152,Guyana,2
-153,Mauritius,2
-154,Saint Barthelemy,2
-155,Greenland,2
-156,Lithuania,2
-157,Vietnam,2
-158,Gaza Strip,2
-159,Algeria,2
-160,Bahrain,1
-161,Vanuatu,1
-162,Lesotho,1
-163,Saint Vincent and the Grenadines,1
-164,Kazakhstan,1
-165,Congo (Brazzaville),1
-166,Anguilla,1
-167,Northern Mariana Islands,1
-168,Curaçao,1
-169,Nauru,1
-170,Liechtenstein,1
-171,Bhutan,1
-172,Paraguay,1
-173,Kiribati,1
-174,Belize,1
-175,Mauritania,1
-176,French Polynesia,1
-177,Monaco,1
-178,"Saint Helena, Ascension, and Tristan da Cunha",1
+country,count,count_log
+United States of America,10998,4.0413137153458605
+Thailand,10937,4.038898212114533
+United Kingdom,3325,3.5217916496391233
+Canada,1890,3.2764618041732443
+India,1451,3.161667412437736
+Japan,940,2.9731278535996988
+Turkey,496,2.6954816764901977
+Nigeria,464,2.6665179805548807
+Germany,437,2.640481436970422
+Pakistan,434,2.637489729512511
+Burkina Faso,385,2.5854607295085006
+Ireland,376,2.575187844927661
+Israel,341,2.5327543789924976
+Gabon,326,2.513217600067939
+Ghana,258,2.41161970596323
+Morocco,242,2.383815365980431
+France,239,2.3783979009481375
+New Caledonia,226,2.3541084391474008
+South Africa,214,2.330413773349191
+Australia,206,2.3138672203691533
+Vatican City,192,2.2833012287035497
+Mali,190,2.278753600952829
+Colombia,180,2.255272505103306
+Philippines,180,2.255272505103306
+Netherlands,168,2.225309281725863
+Laos,165,2.2174839442139063
+Cuba,163,2.2121876044039577
+Azerbaijan,156,2.1931245983544616
+Andorra,153,2.184691430817599
+Tunisia,151,2.1789769472931693
+Italy,149,2.173186268412274
+Moldova,147,2.167317334748176
+Malaysia,130,2.113943352306837
+Kenya,129,2.110589710299249
+Mongolia,127,2.103803720955957
+Spain,111,2.0453229787866576
+Belgium,94,1.9731278535996986
+Macau,88,1.9444826721501687
+Sao Tome and Principe,80,1.9030899869919435
+Austria,79,1.8976270912904414
+United Arab Emirates,77,1.8864907251724818
+Tonga,75,1.8750612633917
+Switzerland,74,1.8692317197309762
+Bangladesh,70,1.845098040014257
+Norway,69,1.8388490907372552
+Albania,69,1.8388490907372552
+Argentina,63,1.7993405494535817
+Indonesia,62,1.792391689498254
+Seychelles,59,1.7708520116421442
+New Zealand,58,1.7634279935629373
+Tanzania,54,1.7323937598229686
+Cayman Islands,46,1.662757831681574
+Finland,45,1.6532125137753437
+Denmark,43,1.6334684555795864
+Jersey,42,1.6232492903979006
+Brazil,41,1.6127838567197355
+Montenegro,38,1.5797835966168101
+Portugal,37,1.568201724066995
+Egypt,32,1.505149978319906
+Saudi Arabia,31,1.4913616938342726
+Iceland,29,1.462397997898956
+Uganda,26,1.414973347970818
+China,25,1.3979400086720377
+Russia,23,1.3617278360175928
+Montserrat,23,1.3617278360175928
+Niger,22,1.3424226808222062
+Malta,21,1.3222192947339193
+Armenia,21,1.3222192947339193
+Belarus,21,1.3222192947339193
+Iran,19,1.2787536009528289
+Qatar,19,1.2787536009528289
+Myanmar,19,1.2787536009528289
+Sri Lanka,18,1.255272505103306
+Sweden,16,1.2041199826559248
+Poland,16,1.2041199826559248
+Lebanon,16,1.2041199826559248
+Jamaica,16,1.2041199826559248
+Mexico,14,1.146128035678238
+Chile,14,1.146128035678238
+Hong Kong,14,1.146128035678238
+Sudan,14,1.146128035678238
+Cameroon,12,1.0791812460476249
+Ethiopia,11,1.0413926851582251
+Slovakia,11,1.0413926851582251
+Sierra Leone,11,1.0413926851582251
+Afghanistan,10,1.0
+Oman,10,1.0
+Zambia,10,1.0
+Czechia,10,1.0
+Slovenia,10,1.0
+South Korea,10,1.0
+Dominican Republic,9,0.9542425094393249
+Cyprus,9,0.9542425094393249
+Equatorial Guinea,9,0.9542425094393249
+Zimbabwe,9,0.9542425094393249
+Papua New Guinea,9,0.9542425094393249
+Maldives,9,0.9542425094393249
+Venezuela,9,0.9542425094393249
+Syria,8,0.9030899869919435
+Isle Of Man,8,0.9030899869919435
+Ukraine,8,0.9030899869919435
+Iraq,8,0.9030899869919435
+Nepal,8,0.9030899869919435
+Burundi,7,0.8450980400142568
+Bermuda,7,0.8450980400142568
+Luxembourg,7,0.8450980400142568
+Croatia,6,0.7781512503836436
+Singapore,6,0.7781512503836436
+Greece,6,0.7781512503836436
+Guatemala,6,0.7781512503836436
+Botswana,6,0.7781512503836436
+Namibia,6,0.7781512503836436
+Kuwait,6,0.7781512503836436
+Yemen,6,0.7781512503836436
+Romania,5,0.6989700043360189
+Ecuador,5,0.6989700043360189
+Rwanda,5,0.6989700043360189
+Hungary,5,0.6989700043360189
+Guam,5,0.6989700043360189
+Senegal,5,0.6989700043360189
+Haiti,5,0.6989700043360189
+Jordan,5,0.6989700043360189
+Latvia,5,0.6989700043360189
+Peru,5,0.6989700043360189
+Fiji,4,0.6020599913279624
+Central African Republic,4,0.6020599913279624
+Côte d'Ivoire,4,0.6020599913279624
+Panama,4,0.6020599913279624
+Costa Rica,4,0.6020599913279624
+Benin,4,0.6020599913279624
+Bolivia,4,0.6020599913279624
+Taiwan,4,0.6020599913279624
+Barbados,4,0.6020599913279624
+South Sudan,4,0.6020599913279624
+Turkmenistan,4,0.6020599913279624
+Cabo Verde,3,0.47712125471966244
+Honduras,3,0.47712125471966244
+Puerto Rico,3,0.47712125471966244
+Uruguay,3,0.47712125471966244
+The Bahamas,3,0.47712125471966244
+Somalia,3,0.47712125471966244
+Georgia,3,0.47712125471966244
+Bosnia and Herzegovina,3,0.47712125471966244
+Estonia,3,0.47712125471966244
+Congo (Kinshasa),3,0.47712125471966244
+Falkland Islands (Islas Malvinas),3,0.47712125471966244
+Liberia,2,0.3010299956639812
+Guadeloupe,2,0.3010299956639812
+Malawi,2,0.3010299956639812
+Nicaragua,2,0.3010299956639812
+Bulgaria,2,0.3010299956639812
+Tuvalu,2,0.3010299956639812
+Guyana,2,0.3010299956639812
+Mauritius,2,0.3010299956639812
+Saint Barthelemy,2,0.3010299956639812
+Greenland,2,0.3010299956639812
+Lithuania,2,0.3010299956639812
+Vietnam,2,0.3010299956639812
+Gaza Strip,2,0.3010299956639812
+Algeria,2,0.3010299956639812
+Bahrain,1,0.0
+Vanuatu,1,0.0
+Lesotho,1,0.0
+Saint Vincent and the Grenadines,1,0.0
+Kazakhstan,1,0.0
+Congo (Brazzaville),1,0.0
+Anguilla,1,0.0
+Northern Mariana Islands,1,0.0
+Curaçao,1,0.0
+Nauru,1,0.0
+Liechtenstein,1,0.0
+Bhutan,1,0.0
+Paraguay,1,0.0
+Kiribati,1,0.0
+Belize,1,0.0
+Mauritania,1,0.0
+French Polynesia,1,0.0
+Monaco,1,0.0
+"Saint Helena, Ascension, and Tristan da Cunha",1,0.0
