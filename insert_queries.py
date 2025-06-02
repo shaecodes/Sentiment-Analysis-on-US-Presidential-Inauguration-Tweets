@@ -24,7 +24,6 @@ property_table = [
     ('Users', user),
     ('Countries', country)
 ]
-
 connection_string = (
     f"mssql+pyodbc://{username}:{password}@{server}/{database}"
     "?driver=ODBC+Driver+17+for+SQL+Server"
